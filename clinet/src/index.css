@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "'Secular One', sans-serif";
+direction: rtl;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cursor{
+  cursor: pointer;
+  
+}
+.cool{
+  filter: grayscale(100%);
+}
+.cool:hover{
+  filter: none;
+  transition: 1s ease;
+  transform: scale(1.1);
+
+
+  
+}

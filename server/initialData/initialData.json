@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": { "first": "regular", "middle": "", "last": "user" },
+      "isBusiness": false,
+      "email": "regular@gmail.com",
+      "password": "Aa1234!",
+      "image": { "url": "", "alt": "one" }
+    },
+    {
+      "name": { "first": "business", "middle": "", "last": "user" },
+      "isBusiness": true,
+      "email": "business@gmail.com",
+      "password": "Aa1234!",
+      "image": { "url": "", "alt": "2" }
+    },
+    {
+      "name": { "first": "blogger", "middle": "", "last": "user" },
+      "isBusiness": true,
+      "email": "blogger@gmail.com",
+      "password": "Aa1234!",
+      "image": { "url": "", "alt": "3" }
+    },
+    {
+      "name": { "first": "admin", "middle": "", "last": "user" },
+      "isBusiness": true,
+      "isAdmin": true,
+      "email": "admin@gmail.com",
+      "password": "Aa1234!",
+      "image": { "url": "", "alt": "4" }
+    }
+  ],
+  "cards": [
+    {
+      "name": "אגומון",
+      "nameInEn": "agumon",
+      "type": "דיג'ימון",
+      "description": "הדיג'ימון של טאי",
+      "level": "בוגר",
+      "image": {
+        "url": "https://media.wired.com/photos/632cabc0995b6da54b57efe7/1:1/w_540,h_540,c_limit/The-Future-of-Digimon-Culture.jpg",
+        "alt": "agomon"
+      }
+    },
+    {
+      "name": "וימון",
+      "nameInEn": "v-mon",
+      "type": "דיג'ימון",
+      "description": "הדיג'ימון של טאדי",
+      "level": "בוגר",
+      "image": {
+        "url": "https://media.wired.com/photos/632cabc0995b6da54b57efe7/1:1/w_540,h_540,c_limit/The-Future-of-Digimon-Culture.jpg",
+        "alt": "agomon"
+      }
+    },
+    {
+      "name": "דיג'ס",
+      "nameInEn": "digivice",
+      "type": "דיג'יוייס",
+      "description": "דיג'יכלי דור 1",
+      "level": "כלי",
+      "image": {
+        "url": "https://media.wired.com/photos/632cabc0995b6da54b57efe7/1:1/w_540,h_540,c_limit/The-Future-of-Digimon-Culture.jpg",
+        "alt": "agomon"
+      }
+    }
+  ]
+}
